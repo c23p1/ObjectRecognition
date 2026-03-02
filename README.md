@@ -11,6 +11,7 @@ API для определения основных объектов и их ма
 ## Порядок запуска
 
 1) Добавить в файл .env необходимые ключи для авторизации
+
 Пример записи для GigaChat (о том, как получить данный ключ, можно прочитать [здесь](https://developers.sber.ru/docs/ru/gigachat/quickstart/ind-using-api#poluchenie-avtorizatsionnyh-dannyh)):
 ```
 GIGACHAT_AUTHORIZATION_KEY=<TOKEN>
